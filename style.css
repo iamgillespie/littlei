@@ -1,0 +1,56 @@
+/*body
+{
+
+    
+    background-image: url(images/kansascity.jpg);
+    background-color: rgb(32, 29, 34);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    font-style: normal; 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+*/
+
+
+body
+{
+
+    margin-top: 5%;
+    margin-left: 5%;
+    margin-right: 5%;
+    color: aliceblue; 
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background: repeating-linear-gradient(
+        -45deg,
+        #222,
+        #222 10px,
+        rgb(116, 71, 71) 10px,
+        rgb(116, 71, 71) 20px
+      );
+
+}
+
+div
+{
+    /*margin-left: 10%;
+    margin-right: 10%;*/
+    background-color: rgb(14, 0, 19);
+    opacity: 0.9;
+
+}
+
+h1
+{   
+    font-size: xx-large; 
+    text-align: end;
+
+}
+
+
+h2
+{
+    font-size: small; 
+    text-align: justify;
+}
